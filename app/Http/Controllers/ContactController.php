@@ -29,6 +29,6 @@ class ContactController extends Controller
      */
     public function test()
     {
-        echo '你好';
+        echo '你好啊锋子';
     }
 }

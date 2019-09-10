@@ -19,12 +19,11 @@
       <file leaf-file-name="ContactController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ContactController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="504">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
               <folding>
                 <element signature="e#40#79#0#PHP" expanded="true" />
                 <element signature="e#309#633#0#PHP" expanded="true" />
-                <element signature="e#682#737#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -305,12 +304,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558539230818</updated>
       <workItem from="1558539232742" duration="47031000" />
-      <workItem from="1568093359755" duration="1452000" />
+      <workItem from="1568093359755" duration="1811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48483000" />
+    <option name="totallyTimeSpent" value="48842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -591,12 +590,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ContactController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        <state relative-caret-position="504">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
           <folding>
             <element signature="e#40#79#0#PHP" expanded="true" />
             <element signature="e#309#633#0#PHP" expanded="true" />
-            <element signature="e#682#737#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
