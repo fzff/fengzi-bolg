@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Cache;
 class SiteMap
 {
     public function getSiteMap()
-    {
+    {  //asdfasdfads
         if (Cache::has('site-map')) {
             return Cache::get('site-map');
         }
