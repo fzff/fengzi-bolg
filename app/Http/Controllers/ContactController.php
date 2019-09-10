@@ -23,12 +23,4 @@ class ContactController extends Controller
 
         return back()->with("success", "消息已发送，感谢您的反馈");
     }
-
-    /**
-     * add the test method
-     */
-    public function test()
-    {
-        echo '你好啊锋子';
-    }
 }
