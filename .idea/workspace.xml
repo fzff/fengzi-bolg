@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ad236fe-f9c2-4eba-83da-c5932a0090f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ContactController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ContactController.php" afterDir="false" />
-    </list>
+    <list default="true" id="2ad236fe-f9c2-4eba-83da-c5932a0090f9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -243,24 +241,6 @@
               <item name="fengzi-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="fengzi-blog" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="fengzi-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengzi-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengzi-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengzi-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengzi-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengzi-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -309,7 +289,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48883000" />
+    <option name="totallyTimeSpent" value="49349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
